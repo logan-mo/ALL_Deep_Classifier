@@ -1,9 +1,10 @@
 ==> Dataset
 Dataset filder contains our Dataset. There are three folders to begin with.
-	i)   orignalTrain      : We will be using this dataset to train our model
-        ii)  orignalValidation : we will be using this dataset for validating our model
+	i)   orignalTrain*      : We will be using this dataset to train our model
+        ii)  orignalValidation* : we will be using this dataset for validating our model
         iii) orignalTest       : we will be using this dataset to test how our model preforms when deployed using the Web App
 
+*Not included on the GitHub Repository
 
 ==> Info About all the files in Project
 
