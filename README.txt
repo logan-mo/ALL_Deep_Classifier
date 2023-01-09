@@ -1,12 +1,12 @@
-==> Dataset
-Dataset filder contains our Dataset. There are three folders to begin with.
-	i)   orignalTrain*      : We will be using this dataset to train our model
-        ii)  orignalValidation* : we will be using this dataset for validating our model
-        iii) orignalTest       : we will be using this dataset to test how our model preforms when deployed using the Web App
+# Dataset
+Dataset folder contains our Dataset. There are three folders to begin with.
+1.  orignalTrain*      : We will be using this dataset to train our model
+2.  orignalValidation* : we will be using this dataset for validating our model
+3.  orignalTest        : we will be using this dataset to test how our model preforms when deployed using the Web App
 
 *Not included on the GitHub Repository
 
-==> Info About all the files in Project
+# Info About all the files in Project
 
 1. The Traning File is for the Image Processing On Traning Data
 2. Validation File is for Image Processing On Validation Data
@@ -18,10 +18,12 @@ Dataset filder contains our Dataset. There are three folders to begin with.
 8. template folder contains our template for our Web App
 9. static folder contains data need for our Web App.
 
+# Instructions to run the pretrained model
+
 Since our model is already trained, there is no need to run the Traning and Validation Data files. Simply Run the Main.py file and 
 copy paste the link it provides in console to your browser and you are good to go.
 
-Project Done By:
-Muhammed Luqman
-Wafiya Sohail
-Farhan Shoukat
+Project Authors:
+* Muhammed Luqman
+* Wafiya Sohail
+* Farhan Shoukat
