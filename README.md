@@ -22,8 +22,3 @@ Dataset folder contains our Dataset. There are three folders to begin with.
 
 Since our model is already trained, there is no need to run the Traning and Validation Data files. Simply Run the Main.py file and 
 copy paste the link it provides in console to your browser and you are good to go.
-
-Project Authors:
-* Muhammed Luqman
-* Wafiya Sohail
-* Farhan Shoukat
